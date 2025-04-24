@@ -1,3 +1,3 @@
 # MyFirstRepository
-This is my first repository
-Author : Sonwane Om
+This is my first repository.
+Author : Sonwane Om(Student)
